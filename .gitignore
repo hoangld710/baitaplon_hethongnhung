@@ -1,0 +1,12 @@
+# Bỏ qua file biên dịch rác của IDE (Keil, STM32CubeIDE, VS Code)
+build/
+Debug/
+Release/
+*.o
+*.elf
+*.hex
+*.axf
+*.map
+*.lst
+.vscode/
+.mxproject
