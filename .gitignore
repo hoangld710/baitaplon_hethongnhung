@@ -1,0 +1,26 @@
+# Keil MDK-ARM build & IDE temporary files
+MDK-ARM/scale/
+MDK-ARM/*.uvguix.*
+MDK-ARM/*.uvoptx
+MDK-ARM/DebugConfig/
+MDK-ARM/Listings/
+MDK-ARM/Objects/
+*.axf
+*.o
+*.d
+*.crf
+*.hex
+*.bin
+*.elf
+*.map
+*.lnp
+*.dep
+*.build_log.htm
+
+# Backup & OS files
+*.bak
+build/
+Debug/
+Release/
+.DS_Store
+Thumbs.db
